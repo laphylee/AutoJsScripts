@@ -1,0 +1,2 @@
+# AutoJsScripts
+Auto.js scripts
